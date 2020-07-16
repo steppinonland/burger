@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burger app",
+  "main": "index.js",
+  "scripts": {
+    "test": "devour it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steppinonland/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "steppinonland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steppinonland/burger/issues"
+  },
+  "homepage": "https://github.com/steppinonland/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
